@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hrzr
-- 👀 I’m interested in Python and games
+- 👀 I’m interested in python and games
 - 🌱 I’m currently learning python and django
 - 💞️ I’m looking to collaborate on games
 - 📫 How to reach me via email: h_rzr@bk.ru
