@@ -20,3 +20,26 @@ img {
 body {
     font-family: 'font', sans-serif;
 }
+
+/* user-defined styles */
+
+.hw-body {
+    color:blue;
+}
+
+.hw-text {
+    color:green;
+}
+
+.hw-text p {
+    width: 50%;
+    margin: 0 0 20 0;
+}
+
+.default {
+    color:pink;
+}
+
+.default p {
+    color:brown;
+}
